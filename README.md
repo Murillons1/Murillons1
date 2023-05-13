@@ -1,5 +1,5 @@
-# 💫 Sobre Mim:
-##Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Full Stack Júnior<br>- 🌱 Eu atulmente estou NodeJS<br>- 😄 Pronouns: Ele/dele<br>- ⚡ Fun fact: Sou Surfista 🏄‍♀️
+##💫 Sobre Mim:
+###Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Full Stack Júnior<br>- 🌱 Eu atulmente estou NodeJS<br>- 😄 Pronouns: Ele/dele<br>- ⚡ Fun fact: Sou Surfista 🏄‍♀️
 
 
 ## 🌐 Socials:
