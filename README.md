@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=murilloplax&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murilloplax&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
+## 🐦 Ultimo Tweet
 [![](https://gtce.itsvg.in/api?username=Murillo84942170)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
