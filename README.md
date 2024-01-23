@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-## Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Full Stack Júnior<br>- 🌱 Eu atualmente estou fazendo E-commerce<br>- 😄 Pronouns: Ele/dele<br>
+## Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Full Stack Júnior<br>- 🌱 Eu atualmente  procurando emprego de Desenvolvedor e Analise de sistemas<br>- 😄 Pronouns: Ele/dele<br>
 
 
 ## 🌐 Socials:
