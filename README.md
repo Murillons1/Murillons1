@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-## Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Full Stack Júnior<br>- 🌱 Eu atualmente  procurando emprego Back-End | Auxiliar ou Estágio de TI<br>- 😄 Pronouns: Ele/dele<br>
+## Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Full Stack Júnior<br>- 🌱 Atualmente procurando emprego Back-End | Auxiliar ou Estágio de TI<br>- 😄 Pronouns: Ele/dele<br>
 
 
 ## 🌐 Socials:
