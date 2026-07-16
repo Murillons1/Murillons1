@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-## Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Back End Júnior<br>- 🌱 Atualmente trabalhando de suporte técnico | Programação PHP <br>- 😄 Pronouns: Ele/dele<br>
+## Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Web Júnior<br>- 🌱 Atualmente trabalhando como suporte técnico na Ydeal Tecnologia | Programação PHP <br>- 😄 Pronouns: Ele/dele<br>
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Murillons1&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Murillons1&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Murillons1&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Ultimo Tweet
-[![](https://gtce.itsvg.in/api?username=Murillo84942170)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
