@@ -86,9 +86,15 @@ Atuação em projetos internos e externos, realizando:
 
 # 📊 GitHub Stats
 
+## 📈 GitHub Activity
+
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murillo-nogueira&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murillo-nogueira&theme=github_dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murillo-nogueira&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murillo-nogueira&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murillo-nogueira&theme=github_dark"/>
 </p>
 
 ---
