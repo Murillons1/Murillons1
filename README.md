@@ -88,9 +88,9 @@ Atuação em projetos internos e externos, realizando:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Murillons1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=murillo-nogueira&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillons1&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillo-nogueira&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -100,7 +100,7 @@ Atuação em projetos internos e externos, realizando:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Murillons1&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murillo-nogueira&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -128,11 +128,5 @@ Em meus repositórios você encontrará projetos envolvendo:
 * 🔐 Sistemas de Login e Controle de Acesso
 
 ---
-
-<div align="center">
-
-### Obrigado pela visita! 👋
-
-*"A tecnologia evolui todos os dias. Aprender continuamente é a melhor forma de acompanhar essa evolução."*
 
 </div>
