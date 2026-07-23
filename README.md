@@ -86,13 +86,10 @@ Atuação em projetos internos e externos, realizando:
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=murillo-nogueira&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murillo-nogueira&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murillo-nogueira&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murillo-nogueira&theme=github_dark" />
+</p>
 
 ---
 
