@@ -1,89 +1,138 @@
-<h1 align="center">Olá, eu sou o Murillo Nogueira da Silva 👋</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor Web Júnior | PHP | SQL | Suporte Técnico</h3>
+# 👋 Olá, eu sou o Murillo Nogueira da Silva
+
+### Web Developer • PHP • SQL • JavaScript
+
+Desenvolvedor Web com foco em aplicações PHP, bancos de dados SQL e manutenção de sistemas. Atualmente atuo na evolução de aplicações web, implementação de funcionalidades, correção de bugs e suporte técnico.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/contato-murillonogueira)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/murillonogueira__/)
+
+</div>
 
 ---
 
-## 💫 Sobre Mim
+# 💼 Sobre
 
-💻 Atualmente atuo como **Suporte Técnico na Ydeal Tecnologia**, oferecendo suporte a sistemas e participando do desenvolvimento e manutenção de aplicações web em **PHP**.
+Sou **Desenvolvedor Web** e atualmente trabalho na **Ydeal Tecnologia**, participando do desenvolvimento e manutenção de aplicações em **PHP**.
 
-🚀 Trabalho com integração e gerenciamento de **bancos de dados SQL**, implementando novas funcionalidades, corrigindo bugs e contribuindo para melhorias contínuas nas aplicações.
+Tenho experiência com:
 
-📚 Estou sempre buscando evoluir como desenvolvedor, aprimorando meus conhecimentos em desenvolvimento web, arquitetura de software e boas práticas de programação.
+* Desenvolvimento e manutenção de sistemas web
+* Correção de bugs e implementação de novas funcionalidades
+* Modelagem e gerenciamento de bancos de dados MySQL
+* Integração entre sistemas
+* Atendimento e suporte técnico
+* Versionamento de código utilizando Git
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+Estou sempre buscando evoluir como desenvolvedor, estudando boas práticas, arquitetura de software e novas tecnologias voltadas ao desenvolvimento web.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+# 🚀 Tecnologias
 
-### Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Back-end
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+</p>
 
 ### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-## 💼 Experiência
+# 💻 Experiência
 
-### 🏢 Ydeal Tecnologia
-**Suporte Técnico | Desenvolvimento Web**
+## Ydeal Tecnologia
 
-- Atendimento e suporte técnico aos usuários.
-- Desenvolvimento e manutenção de sites em PHP.
-- Integração e gerenciamento de bancos de dados SQL.
-- Correção de bugs e implementação de novas funcionalidades.
-- Otimização e melhoria contínua das aplicações.
-- Aplicação de boas práticas de desenvolvimento.
+**Suporte Técnico • Desenvolvedor Web**
+
+Atuação em projetos internos e externos, realizando:
+
+* Desenvolvimento de aplicações em PHP;
+* Implementação de novas funcionalidades;
+* Correção de bugs;
+* Consultas e otimização de bancos de dados SQL;
+* Integração entre sistemas;
+* Manutenção de aplicações web;
+* Atendimento e suporte aos clientes;
+* Versionamento utilizando Git.
 
 ---
 
-## 🌐 Contato
+# 📚 Atualmente estudando
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contato-murillonogueira)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/murillonogueira__/)
+* Arquitetura de Software
+* APIs REST
+* Boas práticas em PHP
+* Performance em SQL
+* Clean Code
+* Git Flow
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Murillons1&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Murillons1&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Murillons1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Murillons1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillons1&layout=compact&theme=github_dark&hide_border=true"/>
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Murillons1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
 ---
 
-## 📈 Contribuições
+# 📈 Contribuições
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Murillons1&theme=tokyo-night&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Murillons1&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Objetivos
+
+* Evoluir para Desenvolvedor Full Stack.
+* Aprimorar conhecimentos em arquitetura de software.
+* Desenvolver aplicações escaláveis.
+* Contribuir com projetos Open Source.
+* Aprender continuamente novas tecnologias.
+
+---
+
+# 📌 Projetos em Destaque
+
+Em meus repositórios você encontrará projetos envolvendo:
+
+* 📅 Sistemas de Agendamento
+* 🌐 Sites Institucionais
+* 🛒 Sistemas Web em PHP
+* 📊 Integrações com Banco de Dados
+* ⚙️ Painéis Administrativos
+* 🔐 Sistemas de Login e Controle de Acesso
 
 ---
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, sempre evoluindo.
+### Obrigado pela visita! 👋
 
-*"A tecnologia muda todos os dias. O aprendizado também."*
+*"A tecnologia evolui todos os dias. Aprender continuamente é a melhor forma de acompanhar essa evolução."*
 
 </div>
