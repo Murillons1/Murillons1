@@ -76,11 +76,12 @@ Atuação em projetos internos e externos, realizando:
 # 📚 Atualmente estudando
 
 * Arquitetura de Software
-* APIs REST
+* Engenharia de Software
 * Boas práticas em PHP
 * Performance em SQL
-* Clean Code
-* Git Flow
+* NoCode
+* Bootstrap
+* Uso de Plugins
 
 ---
 
